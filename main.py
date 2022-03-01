@@ -1,3 +1,4 @@
+#!/bin/python
 from sys import platform
 import subprocess
 import random
